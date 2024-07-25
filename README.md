@@ -88,4 +88,4 @@ The MasterJi project is licensed under the EmmanulStudios. You are free to contr
 
 If you have any questions, suggestions, or feedback, please feel free to contact the Masterji team at emmanulstudios@gmail.com.
 
-Happy travels and enjoy documenting your adventures with Masterji!
+Ready to master your skills with Masterji!
