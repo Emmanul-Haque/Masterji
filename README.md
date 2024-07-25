@@ -36,7 +36,7 @@ Masterji offers a diverse range of courses across various disciplines. Some of t
 Our courses are designed by industry experts who bring their real-world experience and knowledge into the virtual classroom. We strive to provide comprehensive and up-to-date content that equips our learners with practical skills.
 ##  Deployment
 
-To run Travelogger locally or on your own server, follow these steps:
+To run Masterji locally or on your own server, follow these steps:
 ```bash
 1. Clone this repository:
 
@@ -55,7 +55,7 @@ To run Travelogger locally or on your own server, follow these steps:
 That's it! You should now be able to explore and use Masterji on your local machine.
 ```
 ##  Contributing
-    If you'd like to contribute to Travelogger, please follow these steps:
+    If you'd like to contribute to Masterji, please follow these steps:
 ```bash
 1. Fork this repository.
 ```
@@ -86,6 +86,6 @@ That's it! You should now be able to explore and use Masterji on your local mach
 The MasterJi project is licensed under the EmmanulStudios. You are free to contribute the codebase as needed.
 ##  Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact the Travelogger team at emmanulstudios@gmail.com.
+If you have any questions, suggestions, or feedback, please feel free to contact the Masterji team at emmanulstudios@gmail.com.
 
-Happy travels and enjoy documenting your adventures with Travelogger!
+Happy travels and enjoy documenting your adventures with Masterji!
